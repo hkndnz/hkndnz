@@ -1,6 +1,6 @@
 
 # Hi there! I'm Hakan. :blush: Welcome to my GitHub...
-## I'm Java Backend Developer
+## I'm a Python Data Scientist
 
 <br/>
 
