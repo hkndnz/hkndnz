@@ -23,7 +23,16 @@ including **Docker, Kubernetes, and CI/CD** for deployment.
 **MBA – Southern New Hampshire University (USA)**  
 **BA – Business Administration, Gazi University (Turkey)**  
 **Associate Degree – Computer Programming, Anadolu University (Turkey)**  
-**MA – Tour Guiding, Turkey**
+
+---
+
+## 🧪 Research & Internships
+
+**Summer Research Intern – California Institute of Technology (Caltech)**  
+*Division of Engineering and Applied Science*  
+Conducted applied research integrating **machine learning and data analytics** in predictive modeling contexts.  
+Collaborated with academic mentors on advanced data visualization, model optimization, and interpretability studies.  
+Gained exposure to **AI-driven systems**, reproducible research practices, and **scientific computing frameworks**.
 
 ---
 
@@ -51,8 +60,8 @@ including **Docker, Kubernetes, and CI/CD** for deployment.
 
 ## 🌍 Languages
 
-- English – Fluent  
-- German – Fluent  
+- English – Very good  
+- German – Very good  
 - Turkish – Native  
 
 ---
@@ -66,3 +75,4 @@ including **Docker, Kubernetes, and CI/CD** for deployment.
 ---
 
 _This GitHub profile doubles as my online résumé — showcasing my transition from global trade expertise to applied data science and AI innovation._
+
