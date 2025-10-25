@@ -1,36 +1,68 @@
+# 👋 Hi, I'm Hakan Deniz  
 
-# Hi there! I'm Hakan. :blush: Welcome to my GitHub...
-## I'm a Python Data Scientist
+**International Trade Expert | Data Analyst | Deep Learning Practitioner**
 
-<br/>
+With over 15 years of experience in international trade, customs operations, and project management,  
+I am now expanding my professional focus into **Data Science and Artificial Intelligence**.  
+I’m passionate about combining analytical thinking with real-world impact — developing solutions  
+that connect business insight and modern AI technologies.
 
-## My Skills:
+---
 
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/jupyter/jupyter.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" height="45" width="45" src="https://avatars.githubusercontent.com/u/348262?s=200&v=4" />
-<img align="left" height="45" width="45" src="https://cdn.simpleicons.org/spring/green" />
-<img align="left" height="45" width="45" src="https://cdn.simpleicons.org/springboot/green" />
-<img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
-<img align="left" height="45" width="45" src="https://www.thymeleaf.org/images/thymeleaf.png"/>
-<img align="left" height="45" width="45" src="https://tomcat.apache.org/res/images/tomcat.png"/>
-<img align="left" height="45" width="45" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
+## 🎓 Education & Certifications
 
+**Mastering Applied Data Science with Deep Learning**  
+Comprehensive, project-based program covering the full spectrum of **Data Science, Machine Learning, Deep Learning, and MLOps**.  
+Focused on **Python, statistics, feature engineering, and model evaluation**, plus advanced topics like  
+**CNNs, RNNs, GANs, Transformers, and Large Language Models (LLMs)**.  
+Included **60+ hands-on projects** in **time series forecasting, NLP, recommender systems, computer vision**,  
+and **geospatial data analysis (GIS)**.  
+Introduced tools like **PyCaret, AutoKeras, H2O.ai**, **Quantum Machine Learning (QML)**, and **MLOps** concepts  
+including **Docker, Kubernetes, and CI/CD** for deployment.
 
-<br/>
-<br/>
+**MBA – Southern New Hampshire University (USA)**  
+**BA – Business Administration, Gazi University (Turkey)**  
+**Associate Degree – Computer Programming, Anadolu University (Turkey)**  
+**MA – Tour Guiding, Turkey**
 
-<div > <h1 style="color: green;">#OpenToWork</h1> 
-</div>
+---
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hkndnz&theme=tokyonight"> 
- </details>
- 
- <br/>
+## 🧠 Technical Skills
+
+**Languages & Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch, Prophet, SQL, Matplotlib, Seaborn  
+**Specialties:** Machine Learning, Deep Learning, Time Series Forecasting, NLP, Recommender Systems, GIS Data, MLOps  
+**Other:** Git, Docker, CI/CD, Jupyter, VSCode  
+
+---
+
+## 💼 Selected Data Science Projects
+
+| Project | Description |
+|----------|--------------|
+| [**MNIST with PyTorch & CUDA**](https://github.com/hkndnz/mnist-pytorch-cuda) | High-speed digit recognition using GPU acceleration |
+| [**Rossmann Forecasting**](https://github.com/hkndnz/rossmann-forecast-prophet) | Store sales forecasting with Facebook Prophet |
+| [**Credit Card Fraud Detection**](https://github.com/hkndnz/credit-card-fraud-detection) | Anomaly detection with SMOTE and ensemble models |
+| [**Jigsaw Toxic Comment Classification**](https://github.com/hkndnz/jigsaw-toxic-classification) | NLP-based toxic comment classifier |
+| [**M5 Forecasting Accuracy**](https://github.com/hkndnz/m5-forecasting-accuracy) | Retail sales forecasting with LightGBM & Prophet |
+| [**Customer Personality Analysis**](https://github.com/hkndnz/customer-personality-analysis) | Segmentation using clustering and PCA |
+| [**Fake or Real Texts**](https://github.com/hkndnz/fake-or-real-texts) | NLP model for fake news detection |
+
+---
+
+## 🌍 Languages
+
+- English – Fluent  
+- German – Fluent  
+- Turkish – Native  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/hakan-deniz](https://linkedin.com/in/hakan-deniz)  
+- **GitHub:** [github.com/hkndnz](https://github.com/hkndnz)  
+- **Email:** hakan@example.com *(replace with your address)*  
+
+---
+
+_This GitHub profile doubles as my online résumé — showcasing my transition from global trade expertise to applied data science and AI innovation._
