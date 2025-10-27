@@ -70,7 +70,7 @@ Gained exposure to **AI-driven systems**, reproducible research practices, and *
 
 - **LinkedIn:** [linkedin.com/in/hkndnz](https://linkedin.com/in/hkndnz)  
 - **GitHub:** [github.com/hkndnz](https://github.com/hkndnz)  
-- **Email:** hakan@example.com *(replace with your address)*  
+- **Email:** hakandeniz47@gmail.com
 
 ---
 
