@@ -74,5 +74,6 @@ Gained exposure to **AI-driven systems**, reproducible research practices, and *
 
 ---
 
-_This GitHub profile doubles as my online résumé — showcasing my transition from global trade expertise to applied data science and AI innovation._
+[📜 View My Certificates →](https://github.com/hkndnz/Certificates)
+
 
